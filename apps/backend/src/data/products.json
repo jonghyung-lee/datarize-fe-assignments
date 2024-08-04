@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "청바지", "price": 50000, "imgSrc": "http://localhost:4000/imgs/bluejeans.jpg" },
+  { "id": 2, "name": "티셔츠", "price": 20000, "imgSrc": "http://localhost:4000/imgs/tshirts.jpg" },
+  { "id": 3, "name": "자켓", "price": 70000, "imgSrc": "http://localhost:4000/imgs/jackets.jpg" },
+  { "id": 4, "name": "스웨터", "price": 45000, "imgSrc": "http://localhost:4000/imgs/sweater.jpg" },
+  { "id": 5, "name": "셔츠", "price": 35000, "imgSrc": "http://localhost:4000/imgs/shirt.jpg" },
+  { "id": 6, "name": "코트", "price": 100000, "imgSrc": "http://localhost:4000/imgs/coat.jpg" },
+  { "id": 7, "name": "반바지", "price": 30000, "imgSrc": "http://localhost:4000/imgs/shorts.jpg" },
+  { "id": 8, "name": "후드티", "price": 40000, "imgSrc": "http://localhost:4000/imgs/hoodie.jpg" },
+  { "id": 9, "name": "원피스", "price": 60000, "imgSrc": "http://localhost:4000/imgs/dress.jpg" },
+  { "id": 10, "name": "맨투맨", "price": 38000, "imgSrc": "http://localhost:4000/imgs/sweatshirt.jpg" }
+]
